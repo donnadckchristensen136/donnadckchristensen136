@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm donnadckchristensen136
 
-<!--
-**donnadckchristensen136/donnadckchristensen136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏊 🎯 Hacking on full stack development 🏊 🎯
 
-Here are some ideas to get you started:
+## About Me
+🥋 🚴 🚵 🛹 Looking to contribute to frameworks 🥋 🚴 🚵 🛹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎽 🎱 Passionate about UI/UX design 🎽 🎱
+
+### Fun Facts
+🏸 🚣 🏓 Addicted to technical writing 🏸 🚣 🏓
+
+---
+🎯 💡 🌟 🚣 🛶 Thanks for visiting my profile! 🚵 💡 🏒 🚴 🎭
